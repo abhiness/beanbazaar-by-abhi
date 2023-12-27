@@ -1,0 +1,41 @@
+.trade-connect {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: #dedede;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 36px;
+  font-weight: italic;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.media-logos {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.media-logos img {
+  height: 40px;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.depanci-logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.depanci-logo img {
+  height: 80px;
+}
