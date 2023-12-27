@@ -83,7 +83,7 @@ export const items = [
     category: "mugs",
     img: Img3,
     description: "Everything is fine mug",
-    price: 7,
+    price: 7.5,
     otherImgs: [FineMug1, FineMug2],
     specs:
       "Introducing the 'I'm Fine, Everything is Fine' Mug – your go-to companion for those days when a touch of humor is the perfect remedy. Embrace the chaos with this whimsical mug, designed for those who appreciate a good laugh in the face of everyday chaos. Crafted with high-quality ceramic, it holds your favorite beverages with style, letting you declare, 'I'm fine, and everything is fine' in the most reassuring way possible. Elevate your sipping experience and bring a dash of levity to your daily routine with this delightful and relatable mug.",
@@ -108,7 +108,7 @@ export const items = [
     category: "mugs",
     img: Img5,
     description: "Vintage Style Mug",
-    price: 12.3,
+    price: 12.35,
     otherImgs: [Vintage1, Vintage2],
     specs:
       "Embrace the charm of yesteryears with our Vintage Cottage Core Mug. This enchanting piece captures the essence of a bygone era, featuring a delicate floral pattern that transports you to idyllic countryside cottages. Crafted with care, this mug combines nostalgia with functionality, providing a cozy vessel for your favorite warm beverages. Sip in style and add a touch of vintage allure to your daily rituals with this delightful Cottage Core Mug.",
@@ -154,7 +154,7 @@ export const items = [
     category: "coffee",
     img: Img9,
     description: "PT's Flatlander Blend",
-    price: 16.1,
+    price: 16.2,
     otherImgs: [PT1, PT2],
     specs:
       "Easy does it. And this coffee proves just that. A bittersweet aroma is balanced by a nutty, sweet finish. Here's is to one less complication.",
@@ -166,7 +166,7 @@ export const items = [
     category: "stickers",
     img: Img10,
     description: "Good Mood Sticker",
-    price: 1,
+    price: 1.99,
     otherImgs: [Mood1, Mood2],
     specs:
       "Adorn your day with our whimsical 'Today's Good Mood is Sponsored by Coffee' sticker! Crafted for coffee enthusiasts and champions of positive vibes, this sticker is a delightful reminder that a cup of your favorite brew can turn any day into a good day. Stick it on your laptop, water bottle, or journal, and let the coffee magic unfold. Embrace the caffeinated joy and spread the smiles with this charming accessory, because every good mood deserves a coffee sponsor!",
@@ -176,7 +176,7 @@ export const items = [
     category: "mugs",
     img: Img11,
     description: "Morning Start-Up Mug",
-    price: 16.0,
+    price: 16.99,
     otherImgs: [Coding1, Coding1],
     specs:
       "The Here Comes The Sun pendant designed by Bertrand Balas is a quality mugs with a unique and magical look. The Here Comes The Sun series has a fantastic expression and especially swhen turned on it creates a very special atmosphere in the room it hangs in. The mugs fits perfectly above both dining room table, kitchen counter, and as living room lighting . ",
@@ -212,7 +212,7 @@ export const items = [
     category: "stickers",
     img: Img14,
     description: "Mug Love Sticker",
-    price: 2,
+    price: 2.25,
     otherImgs: [Kawaii1, Kawaii2],
     specs:
       "Spread joy with our cheerful Mug Love sticker! This delightful design features a smiling mug adorned with a vibrant red heart, making it the perfect accessory to add warmth and positivity to your belongings. Stick it on your laptop, water bottle, or anywhere you need a touch of happiness. Embrace the simple yet heartwarming charm of our Mug Love sticker, because sometimes all you need is a friendly mug with a loving grin to brighten your day.",
@@ -236,7 +236,7 @@ export const items = [
     category: "literature",
     img: Img16,
     description: "How To Make The Best Coffee At Home",
-    price: 12.0,
+    price: 12.99,
     otherImgs: [Cam1, Cam2],
     specs:
       "Coffee Expert James Hoffman is here to show you how you can make the best coffee, that suits your pallette and taste, at home. With repeateable recipes to reply on wheter you are just starting on your cofee journey or looking to increase your existing knowledge.",
