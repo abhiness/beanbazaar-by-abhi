@@ -46,9 +46,6 @@ function Navbar() {
           <Link onClick={() => setMobileNav(!mobileNav)} to="/categories/all">
             categories
           </Link>
-          <Link onClick={() => setMobileNav(!mobileNav)} to="/categories/lamps">
-            lamps
-          </Link>
           <Link
             onClick={() => setMobileNav(!mobileNav)}
             to="/categories/product/19"
